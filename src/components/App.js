@@ -3,7 +3,7 @@ import EmailBuilder from './email-builder'
 
 const App = () => {
   return (
-    <div>
+    <div className="builder-container">
       <EmailBuilder />
     </div>
   )

@@ -9,10 +9,13 @@
     "grapesjs": "^0.20.4",
     "grapesjs-blocks-basic": "^1.0.1",
     "grapesjs-preset-webpage": "^1.0.2",
+    "node-html-parser": "^6.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "underscore": "^1.13.6",
+    "web-vitals": "^2.1.4",
+    "xregexp": "^5.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
